@@ -16,6 +16,7 @@
       "phpunit/phpunit": "4.5.*",
       "codeclimate/php-test-reporter": "dev-master"
    },
+   "minimum-stability":"dev",
    "autoload": {
       "classmap": ["Jdf.php"]
    }
