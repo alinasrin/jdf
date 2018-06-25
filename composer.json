@@ -3,8 +3,6 @@
    "description": "This class can return perisan date (jalaly or iranian date) in php",
    "homepage": "http://jdf.scr.ir",
    "license": "MIT",
-   "minimum-stability": "dev",
-   "prefer-stable": true,
    "authors": [
       {
          "name": "alinasrin",
